@@ -7,4 +7,5 @@ target/
 # Documentation files
 DOCUMENTATION.docx
 DOCUMENTATION.md
-DESIGN.md
+UPGRADE_NOTES.md
+API_TEST_REPORT.md
