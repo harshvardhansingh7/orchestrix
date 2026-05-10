@@ -1,0 +1,10 @@
+# IDE
+.vscode/
+
+# Build files
+target/
+
+# Documentation files
+DOCUMENTATION.docx
+DOCUMENTATION.md
+DESIGN.md
