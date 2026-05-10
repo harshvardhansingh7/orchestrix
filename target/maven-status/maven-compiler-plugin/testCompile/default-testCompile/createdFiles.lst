@@ -1,8 +1,0 @@
-com\orchestrix\routing\RoutingEngineTest.class
-com\orchestrix\support\NoopCacheService.class
-com\orchestrix\support\TestLLMProvider.class
-com\orchestrix\integration\ChatApiIntegrationTest$TestProviders.class
-com\orchestrix\support\NullObjectProvider.class
-com\orchestrix\integration\ChatApiIntegrationTest.class
-com\orchestrix\service\RateLimitServiceTest.class
-com\orchestrix\routing\FeatureExtractorTest.class

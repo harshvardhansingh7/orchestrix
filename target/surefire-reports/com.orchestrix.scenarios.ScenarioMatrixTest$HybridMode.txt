@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.orchestrix.scenarios.ScenarioMatrixTest$HybridMode
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.294 s -- in com.orchestrix.scenarios.ScenarioMatrixTest$HybridMode
