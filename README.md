@@ -499,5 +499,6 @@ Deeper tuning (weights, timeouts, costs) lives in `application.yml`.
 - [`DESIGN.md`](./DESIGN.md) — architecture, scoring formula, failure modes,
   tradeoffs, what was *not* built, and the scaling plan from
   10 → 1k → 100k RPS.
+- [`DOCUMENTATION.md`](./DOCUMENTATION.md) — Detailed implementation and architecture understanding.
 - [`SYSTEM_DEEP_DIVE.md`](./SYSTEM_DEEP_DIVE.md) — class-by-class explanation,
   full request lifecycle, sample logs, and routing-formula walkthroughs.
